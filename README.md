@@ -12,6 +12,4 @@ The program implements:
 ◦ Graphical representation of deviations of actual characteristic ratios from specified target results.
 
 Certificate of registration of a computer program
-
-![Система поддержки принятия решений для оптимизации многокомпонентных смесей](https://github.com/user-attachments/files/23707198/default.pdf)
-![Свиделельство - СИСТЕМА ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ С ПОМОЩЬЮ МОДИФИЦИРОВАННОГО МЕТОДА EDAS С ИНТЕРВАЛЬНЫМИ ВЕСАМИ](https://github.com/user-attachments/assets/f0f6f899-c899-4f3f-ba7b-224e8e0836ff)
+![Регистрация программы для ЭВМ.pdf](https://github.com/user-attachments/files/23707259/default.pdf)
