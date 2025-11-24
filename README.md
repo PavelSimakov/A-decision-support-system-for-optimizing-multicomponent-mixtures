@@ -14,3 +14,4 @@ The program implements:
 Certificate of registration of a computer program
 
 ![Система поддержки принятия решений для оптимизации многокомпонентных смесей](https://github.com/user-attachments/files/23707198/default.pdf)
+![Свиделельство - СИСТЕМА ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ С ПОМОЩЬЮ МОДИФИЦИРОВАННОГО МЕТОДА EDAS С ИНТЕРВАЛЬНЫМИ ВЕСАМИ](https://github.com/user-attachments/assets/f0f6f899-c899-4f3f-ba7b-224e8e0836ff)
