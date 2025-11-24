@@ -12,4 +12,5 @@ The program implements:
 ◦ Graphical representation of deviations of actual characteristic ratios from specified target results.
 
 Certificate of registration of a computer program
-![Регистрация программы для ЭВМ.pdf](https://github.com/user-attachments/files/23707259/default.pdf)
+
+![Свиделельство - Система поддержки принятия решений для оптимизации многокомпонентных смесей](https://github.com/user-attachments/files/23707259/default.pdf)
