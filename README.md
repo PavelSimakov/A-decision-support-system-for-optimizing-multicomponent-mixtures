@@ -1,1 +1,1 @@
-# A-decision-support-system-for-optimizing-multicomponent-mixtures
+# A decision support system for optimizing multicomponent mixtures
