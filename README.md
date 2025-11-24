@@ -12,3 +12,4 @@ The program implements:
 ◦ Graphical representation of deviations of actual characteristic ratios from specified target results.
 
 Certificate of registration of a computer program
+[Регистрация программы для ЭВМ.pdf](https://github.com/user-attachments/files/23706972/default.pdf)
