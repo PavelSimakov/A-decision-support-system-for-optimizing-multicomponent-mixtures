@@ -13,4 +13,4 @@ The program implements:
 
 Certificate of registration of a computer program
 
-![Свиделельство - Система поддержки принятия решений для оптимизации многокомпонентных смесей](https://github.com/user-attachments/files/23707259/default.pdf)
+![Свиделельство - Система поддержки принятия решений для оптимизации многокомпонентных смесей](https://github.com/user-attachments/assets/505cfbcd-dd2c-4bdf-a46a-2b1043b3ce3b)
